@@ -9,6 +9,9 @@
 ![Writing with hand](https://images.pexels.com/photos/4195504/pexels-photo-4195504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 perubahan dibuat hari ini
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
 
 ``` python
 print('Keren Wak!')
